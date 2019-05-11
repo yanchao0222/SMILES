@@ -13,9 +13,11 @@
 
 >***Advised by***: 
 
+>**Bradley Malin**,  DBMI,  Vanderbilt University Medical Center
+
 >**You Chen**, DBMI,  Vanderbilt University Medical Center
 
->**Bradley Malin**,  DBMI,  Vanderbilt University Medical Center
+
 
 <br />
 <br />
